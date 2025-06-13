@@ -1,0 +1,90 @@
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Aggiungi attivita di studio' 
+Inserisci descrizione: Inserisci corso: Inserisci data scadenza (AAAA-MM-GG): Tempo stimato (ore): Priorita (1=Bassa, 2=Media, 3=Alta): attivita aggiunta con successo.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Aggiungi attivita di studio' 
+Inserisci descrizione: Inserisci corso: Inserisci data scadenza (AAAA-MM-GG): Tempo stimato (ore): Priorita (1=Bassa, 2=Media, 3=Alta): attivita aggiunta con successo.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Visualizza attivita' 
+Inserisci la data di oggi (AAAA-MM-GG): 
+ 1) Progetto Psd
+ Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: 2023-12-15
+
+ 2) Esercizi di Matematica Analisi 
+ Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: 2023-12-20
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Visualizza attivita' 
+Inserisci la data di oggi (AAAA-MM-GG): 
+ 1) Progetto Psd 
+ Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: 2023-12-15
+
+ 2) Esercizi di Matematica Analisi 
+ Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: 2023-12-20
+
+Hai scelto 'Aggiorna progresso' 
+
+Seleziona l'ID dell'attivita: Ore da aggiungere: ID non valido.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Uscita dal programma.
