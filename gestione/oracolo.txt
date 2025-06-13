@@ -28,13 +28,13 @@ GESTIONE STUDIO
 Seleziona un'opzione: 
 Hai scelto 'Visualizza attivita' 
 Inserisci la data di oggi (AAAA-MM-GG): 
- 1) Progetto Psd
+ 1) Progetto Psd 
  Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-15
+ Stato: In Ritardo | Scadenza: 2025-06-08
 
  2) Esercizi di Matematica Analisi 
  Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-20
+ Stato: In Corso | Scadenza: 2025-06-13
 
 GESTIONE STUDIO
 1. Aggiungi attivita di studio
@@ -47,11 +47,11 @@ Hai scelto 'Visualizza attivita'
 Inserisci la data di oggi (AAAA-MM-GG): 
  1) Progetto Psd 
  Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-15
+ Stato: In Ritardo | Scadenza: 2025-06-08
 
  2) Esercizi di Matematica Analisi 
  Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-20
+ Stato: In Corso | Scadenza: 2025-06-13
 
 Hai scelto 'Aggiorna progresso' 
 

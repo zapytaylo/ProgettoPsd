@@ -15,6 +15,35 @@ GESTIONE STUDIO
 3. Aggiorna progresso
 4. Genera report settimanale
 0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Visualizza attivita' 
+Inserisci la data di oggi (AAAA-MM-GG): 
+ 1)  Esercizi di Matematica 
+ Priorita: 12 | Tempo stimato: 2023 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: Analisi
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
 Seleziona un'opzione: 
 Hai scelto 'Aggiungi attivita di studio' 
 Inserisci descrizione: Inserisci corso: Inserisci data scadenza (AAAA-MM-GG): Tempo stimato (ore): Priorita (1=Bassa, 2=Media, 3=Alta): attivita aggiunta con successo.
@@ -25,16 +54,15 @@ GESTIONE STUDIO
 3. Aggiorna progresso
 4. Genera report settimanale
 0. Esci
-Seleziona un'opzione: 
-Hai scelto 'Visualizza attivita' 
-Inserisci la data di oggi (AAAA-MM-GG): 
- 1) Progetto Psd
- Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-15
+Seleziona un'opzione: Scelta non valida.
 
- 2) Esercizi di Matematica Analisi 
- Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-20
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
 
 GESTIONE STUDIO
 1. Aggiungi attivita di studio
@@ -45,17 +73,65 @@ GESTIONE STUDIO
 Seleziona un'opzione: 
 Hai scelto 'Visualizza attivita' 
 Inserisci la data di oggi (AAAA-MM-GG): 
- 1) Progetto Psd 
- Priorita: 3 | Tempo stimato: 8 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-15
+ 1)  Progetto 
+ Priorita: 12 | Tempo stimato: 2023 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: Psd
 
- 2) Esercizi di Matematica Analisi 
- Priorita: 2 | Tempo stimato: 5 ore | Tempo trascorso: 0 ore
- Stato: In Corso | Scadenza: 2023-12-20
+ 2)  Esercizi di Matematica 
+ Priorita: 12 | Tempo stimato: 2023 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: Analisi
 
 Hai scelto 'Aggiorna progresso' 
 
-Seleziona l'ID dell'attivita: Ore da aggiungere: ID non valido.
+Seleziona l'ID dell'attivita: Ore da aggiungere: Progresso aggiornato.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: Scelta non valida.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Visualizza attivita' 
+Inserisci la data di oggi (AAAA-MM-GG): 
+ 1)  Progetto 
+ Priorita: 12 | Tempo stimato: 2023 ore | Tempo trascorso: 0 ore
+ Stato: In Corso | Scadenza: Psd
+
+ 2)  Esercizi di Matematica 
+ Priorita: 12 | Tempo stimato: 2023 ore | Tempo trascorso: 2023 ore
+ Stato: Completata | Scadenza: Analisi
+
+Hai scelto 'Aggiorna progresso' 
+
+Seleziona l'ID dell'attivita: Ore da aggiungere: Progresso aggiornato.
+
+GESTIONE STUDIO
+1. Aggiungi attivita di studio
+2. Visualizza attivita
+3. Aggiorna progresso
+4. Genera report settimanale
+0. Esci
+Seleziona un'opzione: 
+Hai scelto 'Report settimanale' 
+Inserisci la data di oggi (AAAA-MM-GG): [IN CORSO]  - Progetto (Scadenza: Psd)
+[COMPLETATA]  - Esercizi di Matematica
 
 GESTIONE STUDIO
 1. Aggiungi attivita di studio
