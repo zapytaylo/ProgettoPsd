@@ -1,9 +1,9 @@
 # ProgettoPsd
 Traccia 3 spiegazione makefile
-make        # Compila ed esegue i test
-make build  # Solo compilazione
-make test   # Solo esecuzione test
-make clean  # Pulizia
+make (Compila ed esegue i tes), 
+make build (Solo compilazione), 
+make test (Solo esecuzione test), 
+make clean (Pulizia)
 
 SE oracolo.txt E output.txt NON COINCIDONO ESCE UN MESSAGGIO CON SCRITTO:
 === Avvio dei Test ===
