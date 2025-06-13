@@ -1,5 +1,5 @@
 # ProgettoPsd
-Traccia 3 spiegazione makefile
+Traccia 3. SPIEGAZIONE MAKEFILE. 
 make (Compila ed esegue i tes), 
 make build (Solo compilazione), 
 make test (Solo esecuzione test), 
